@@ -1,0 +1,6 @@
+{
+  "name": "Hello World Android Kotlin",
+  "description": "A minimal Android application project using Kotlin and Gradle, designed to pass CI builds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
